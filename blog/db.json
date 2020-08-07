@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "清平乐",
+      "content": "乐得清平",
+      "auther": 1
+    },
+    {
+      "id": 2,
+      "title": "木兰辞",
+      "content": "唧唧复唧唧，木兰当户织",
+      "auther": 2
+    },
+    {
+      "id": "3",
+      "title": "静夜思",
+      "content": "举头望明月，低头思故乡",
+      "auther": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "宋朝"
+    },
+    {
+      "id": 2,
+      "name": "后汉府"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": 2,
+      "content": "乐得清平666"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "author": 1,
+      "content": "木兰666666"
+    }
+  ]
+}

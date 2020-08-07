@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "- 博客网站， 我们还欠缺哪些技能？\r     React 做UI 组件化思维\r     - 列表\r     - 详情页\r     - 评论\r     node 做后端\r     - 后台数据库 mysql MongoDB\r         不用后台数据库，怎么向应用提供数据库\r         - 爬取数据 cherrio\r         - MVC model(数据库)-view(react)-controller(node)\r         可以实现增删改查，但不启用mysql那么繁琐\r         - \r JSON是数据格式 是前后端交互的一个数据标准",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.16.1"
+  }
+}
